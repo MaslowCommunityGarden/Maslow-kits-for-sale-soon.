@@ -1,6 +1,6 @@
 # Complete kit
 
-This is a duplicate of the original kit.
+Kits available now! Free shipping to lower 48.
 
 Etonm motors and encoders.
 
