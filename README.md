@@ -1,6 +1,6 @@
 # Complete kit
 
-Kits available now! Free shipping to lower 48.
+Kits available now - Ships today! - Free shipping to lower 48.
 
 Etonm motors and encoders.
 
