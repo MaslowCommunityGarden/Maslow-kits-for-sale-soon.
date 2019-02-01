@@ -6,4 +6,4 @@ OEM Maslow kit with UPGRADED TLE5206 shield, at no extra cost.
 
 In stock now, ships TODAY :)
 
-Guaranteed parts.
+Guaranteed parts
