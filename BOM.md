@@ -1,1 +1,1 @@
-You can buy this kit from [our website here](https://www.eastbaysource.com/collections/all)
+You can buy the Maslow kit from [here](https://www.eastbaysource.com/collections/all)
