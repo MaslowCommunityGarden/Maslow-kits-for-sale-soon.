@@ -1,4 +1,4 @@
-# Complete kit
+# Complete Maslow kit
 
 Complete Maslow Kits in stock now, ships TODAY! It takes 3-5 days to arrive at your doorstep in USA, or 6-10 days international.
 
