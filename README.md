@@ -4,7 +4,7 @@ Complete Maslow Kits in stock now, ships TODAY! It takes 3-5 days to arrive at y
 
 FREE shipping to continental US.
 
-OEM Complete kit, 3 axis, ring system, and latest and upgraded shield v1.4 [*TLE5206*](https://www.eastbaysource.com/blogs/product-info/product-detail), included at no extra cost ($75 value).
+OEM Complete kit, X,Y, AND Z-axis, ring system, and latest and upgraded shield v1.4 [*TLE5206*](https://www.eastbaysource.com/blogs/product-info/product-detail), included at no extra cost ($75 value).
 
 Check our complete parts list [HERE](https://www.eastbaysource.com/blogs/news/maslow-full-kit-parts-list)
 
