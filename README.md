@@ -1,8 +1,6 @@
-# Complete Maslow kit
+# Full kit - Upgreded v1.4 shield - Free priotity shipping to lower 48.
 
-Complete Maslow Kits in stock now, ships from US. It takes 3-5 days to arrive at your doorstep in USA, or 6-10 days international.
-
-FREE shipping to continental US.
+Complete Maslow Kits in stock now, ships today from USA. It takes 3-5 days to deliver, or 6-10 days international.
 
 OEM Complete kit, X,Y, AND Z-axis, ring system, and latest and upgraded shield v1.4 [*TLE5206*](https://www.eastbaysource.com/blogs/product-info/product-detail), included at no extra cost ($75 value).
 
