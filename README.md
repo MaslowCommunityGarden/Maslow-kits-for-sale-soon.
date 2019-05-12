@@ -8,7 +8,7 @@ Check our complete parts list [HERE](https://www.eastbaysource.com/blogs/news/ma
 
 AL needed software can be downloaded for free.
 
-Original Maslow Grownd Control Software made by Barbour Smith [HERE](https://github.com/MaslowCNC/GroundControl/releases).
+Original Maslow Ground Control Software made by Barbour Smith [HERE](https://github.com/MaslowCNC/GroundControl/releases).
 
 Firmware [HERE](https://github.com/MaslowCNC/Firmware/releases/)
 
