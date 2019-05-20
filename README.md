@@ -1,4 +1,4 @@
-# Full kit - Upgraded v1.4 shield - Free Priority mail to lower 48.
+# Full kit + Upgraded v1.4 shield + Free Priority mail to lower 48.
 
 Maslow Kits in stock now, ships today from USA via priority mail (3-5 days to deliver, or 6-10 days international).
 
