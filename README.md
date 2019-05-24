@@ -14,6 +14,6 @@ Firmware [HERE](https://github.com/MaslowCNC/Firmware/releases/)
 
 Check out the MaslowCommunityGarden.org website where users are posting, and sharing their amazing work [HERE](http://maslowcommunitygarden.org/index.html). Just click on any project you like and download the files to reproduce their work. 
 
-We wish to extend a huge "THANK YOU" to the Maslow community members, for being generous enough to share their hard work and be a constant support for new users. 
+We wish to extend a huge "THANK YOU" to the Maslow community members, for being generous enough to share their amazing work and be a constant support for new users. 
 
 
