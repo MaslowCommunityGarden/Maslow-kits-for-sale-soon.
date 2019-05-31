@@ -22,4 +22,5 @@ Check out the MaslowCommunityGarden.org website where users are posting, and sha
 
 We wish to extend a huge "THANK YOU" to the Maslow community members, for being generous enough to share their amazing work and be a constant support for new users. 
 
+NOTE. We are an authorized third party supplier, Maslow cnc is an open source created by Bar Smith and funded/supported by the Maslow community, we are honored to be part of it and to be allowed to be a source for quality and improved kits.
 
