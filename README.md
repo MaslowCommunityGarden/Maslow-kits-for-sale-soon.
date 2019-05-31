@@ -14,7 +14,7 @@ We are here to help and collaborate, we always answer all our e-mails within a d
 
 Check our complete parts list [HERE](https://www.eastbaysource.com/blogs/news/maslow-full-kit-parts-list)
 
-Original software by Barbour Smithis is downloadable  for free. [HERE](https://github.com/MaslowCNC/GroundControl/releases). 
+Original software by Barbour Smith is downloadable  for free. [HERE](https://github.com/MaslowCNC/GroundControl/releases). 
 
 Original Firmware [HERE](https://github.com/MaslowCNC/Firmware/releases/)
 
