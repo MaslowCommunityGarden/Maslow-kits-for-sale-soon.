@@ -4,10 +4,11 @@ Maslow Kits in stock now, ships today from USA via priority mail (3-5 days to de
 
 Complete kit, X,Y, AND Z-axis, ring system, and latest and upgraded shield v1.4 [*TLE5206*](https://www.eastbaysource.com/blogs/product-info/product-detail) included at no extra cost ($75 value).
 
-# New upgraded V1.4 shield [*TLE5206*](https://www.eastbaysource.com/blogs/product-info/product-detail) included at no extra cost ($75 value).
-# Thicker, heavier ring, carriages and L brackets.
-# Full 6 months warranty on all parts (including shipping).
-# Free support.
+New upgraded V1.4 shield [*TLE5206*](https://www.eastbaysource.com/blogs/product-info/product-detail) included at no extra cost ($75 value).
+Thicker, heavier ring, carriages and L brackets.
+Upgraded motors.
+Full 6 months warranty on all parts (including shipping).
+Free support.
 
 Check our complete parts list [HERE](https://www.eastbaysource.com/blogs/news/maslow-full-kit-parts-list)
 
