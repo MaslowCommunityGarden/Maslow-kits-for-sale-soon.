@@ -1,4 +1,6 @@
-# Full kit + Upgraded v1.4 shield + Free Priority mail to US (including Alaska, Hawaii, Puerto Rico, Guam, and the U.S. Virgin Islands).
+# Full kit + Upgraded v1.4 shield + Free Priority mail to all USA
+
+Visit [EastBaySource.com](https://www.eastbaysource.com/collections/all) to purchase.
 
 Maslow Kits in stock now, ships today from USA via priority mail (3-5 days to deliver, or 6-10 days international).
 
