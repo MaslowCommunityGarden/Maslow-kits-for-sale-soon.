@@ -19,7 +19,7 @@ Original software by Barbour Smith is downloadable  for free. [HERE](https://git
 
 Original Firmware [HERE](https://github.com/MaslowCNC/Firmware/releases/)
 
-Official step by step asembly guide [HERE](https://www.maslowcnc.com/assemblyguide).
+Official step by step assembly guide [HERE](https://www.maslowcnc.com/assemblyguide).
 
 Check out the MaslowCommunityGarden.org website where users are posting, and sharing their amazing work for free [HERE](http://maslowcommunitygarden.org/index.html). Just click on any project you like and download the files to recreate their work. 
 
