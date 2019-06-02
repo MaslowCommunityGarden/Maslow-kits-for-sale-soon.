@@ -8,7 +8,7 @@ Complete kit X,Y,Z, axis and ring system.
 
 Real improvements:
 
-- **Upgraded shield V1.4 [*TLE5206*](https://www.eastbaysource.com/blogs/product-info/product-detail) included at no extra cost ($75 value).** :heavy_check_mark:
+- **[Upgraded shield V1.4](https://www.eastbaysource.com/blogs/product-info/product-detail) (plug and play) included at no extra cost ($75 value).** :heavy_check_mark:
 - **Improved, stronger ring, carriages and L brackets.** :heavy_check_mark:
 - **Upgraded motor gears.** :heavy_check_mark:
 - **Full 6 months warranty on all parts (including shipping).** :heavy_check_mark:
@@ -32,5 +32,5 @@ We wish to extend a huge "THANK YOU" to the Maslow community members, for being 
 
 :warning:Whoever you buy your kit from, make sure your kit comes with the new shield v1.4 to avoid future problems. :warning:
 
-:sun_with_face:We are an authorized third party supplier aswell, Maslow cnc is an open source created by Bar Smith and funded/supported by the Maslow community, we are honored to be part of it and to be allowed to be a source for quality and improved kits.:sun_with_face:
+:sun_with_face:We are an authorized third party supplier aswell, Maslow cnc is an open source created by Bar Smith and funded/supported by the Maslow community, we are honored to be part of it and to be allowed to be a source for quality and improved kits.
 
