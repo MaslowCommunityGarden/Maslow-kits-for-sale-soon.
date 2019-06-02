@@ -9,8 +9,8 @@ Complete kit X,Y,Z, axis and ring system.
 It also comes with:
 
 - **Upgraded shield V1.4 [*TLE5206*](https://www.eastbaysource.com/blogs/product-info/product-detail) included at no extra cost ($75 value).**
-- **Upgraded thicker, heavier ring, carriages and L brackets.**
-- **Upgraded motors.**
+- **Improved, stronger ring, carriages and L brackets.**
+- **Upgraded motor gears.**
 - **Full 6 months warranty on all parts (including shipping).**
 - **Free support.**
 
