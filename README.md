@@ -18,7 +18,7 @@ We are here to help and collaborate, we always answer all our e-mails within a d
 
 Check our complete parts list [HERE](https://www.eastbaysource.com/blogs/news/maslow-full-kit-parts-list)
 
-**Software and sample projects been always downloadable for free thanks to Bar and the community.
+**Software and sample projects been always downloadable for free thanks to Bar and the community.**
 
 Download the riginal software [HERE](https://github.com/MaslowCNC/GroundControl/releases). 
 
