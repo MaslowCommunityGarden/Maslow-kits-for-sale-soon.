@@ -6,19 +6,21 @@ Maslow Kits in stock now, ships today from USA via priority mail (3-5 days to de
 
 Complete kit X,Y,Z, axis and ring system.
 
-It also comes with:
+Real improvements:
 
-- **Upgraded shield V1.4 [*TLE5206*](https://www.eastbaysource.com/blogs/product-info/product-detail) included at no extra cost ($75 value).**
-- **Improved, stronger ring, carriages and L brackets.**
-- **Upgraded motor gears.**
-- **Full 6 months warranty on all parts (including shipping).**
-- **Free support.**
+- **Upgraded shield V1.4 [*TLE5206*](https://www.eastbaysource.com/blogs/product-info/product-detail) included at no extra cost ($75 value).** :heavy_check_mark:
+- **Improved, stronger ring, carriages and L brackets.** :heavy_check_mark:
+- **Upgraded motor gears.** :heavy_check_mark:
+- **Full 6 months warranty on all parts (including shipping).** :heavy_check_mark:
+- **Free support.** :heavy_check_mark:
 
 We are here to help and collaborate, we always answer all our e-mails within a day.
 
 Check our complete parts list [HERE](https://www.eastbaysource.com/blogs/news/maslow-full-kit-parts-list)
 
-Original software by Barbour Smith is downloadable  for free. [HERE](https://github.com/MaslowCNC/GroundControl/releases). 
+**Software and sample projects been always downloadable for free thanks to Bar and the community.
+
+Download the riginal software [HERE](https://github.com/MaslowCNC/GroundControl/releases). 
 
 Original Firmware [HERE](https://github.com/MaslowCNC/Firmware/releases/)
 
@@ -28,5 +30,7 @@ Check out the MaslowCommunityGarden.org website where users are posting, and sha
 
 We wish to extend a huge "THANK YOU" to the Maslow community members, for being generous enough to share their amazing work and be a constant support for new users. 
 
-NOTE. We are an authorized third party supplier, Maslow cnc is an open source created by Bar Smith and funded/supported by the Maslow community, we are honored to be part of it and to be allowed to be a source for quality and improved kits.
+:warning:Whoever you buy your kit from, make sure your kit comes with the new shield v1.4 to avoid future problems. :warning:
+
+:sun_with_face:We are an authorized third party supplier aswell, Maslow cnc is an open source created by Bar Smith and funded/supported by the Maslow community, we are honored to be part of it and to be allowed to be a source for quality and improved kits.:sun_with_face:
 
