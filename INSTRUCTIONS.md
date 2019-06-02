@@ -18,5 +18,6 @@ NOTE there are 4 kit providers at the moment to choose from:
 We believe competition pushes forward innovation and service, and it should be focused in the actual product, not on misleading marketing techniques.
 
 EastBaySource
+
 Gab
 
