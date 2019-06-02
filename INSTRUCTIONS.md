@@ -15,7 +15,7 @@ NOTE there are 4 kit providers at the moment to choose from:
 
 **The original kits from Bar are not longer sold**
 
-We believe competition pushes forward innovation and service, and it should be focused in the actual product, not on misleading marketing techniques.
+We believe competition pushes forward innovation and service, and it should be focused in the actual product, not in misleading marketing techniques.
 
 EastBaySource
 
