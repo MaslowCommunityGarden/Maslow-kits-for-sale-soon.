@@ -30,7 +30,8 @@ Check out the MaslowCommunityGarden.org website where users are posting, and sha
 
 We wish to extend a huge "THANK YOU" to the Maslow community members, for being generous enough to share their amazing work and be a constant support for new users. 
 
-:warning:Whoever you buy your kit from, make sure your kit comes with the new shield v1.4 to avoid future problems. Do your research, compare and then decide on what’s best for you :) :warning:
+:warning:Whoever you buy your kit from, make sure your kit comes with the new shield v1.4 to avoid future problems. 
+Do your research, compare and then decide on what’s best for you :)
 
 ```diff
 + We are an authorized third party supplier aswell. Maslow cnc is an open source created by Bar Smith and funded/supported by the Maslow community, we are honored to be part of it and to be allowed to be a source for quality and improved kits.
