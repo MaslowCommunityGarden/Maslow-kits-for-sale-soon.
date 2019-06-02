@@ -5,10 +5,11 @@ This is an original Maslow kit with the latest upgrades.
 You can follow step by step instructions to assembly and use it [here](https://www.maslowcnc.com/assemblyguide)
 
 NOTE there are 4 kit providers at the moment to choose from:
-@EastBaySource
-@MetalMaslow
-@MaslowSurplusParts
-@MakerMadecnc
+
+- @EastBaySource
+- @MetalMaslow
+- @MaslowSurplusParts
+- @MakerMadecnc
 
 **We ALL share the same rights to sell these kits.**
 
