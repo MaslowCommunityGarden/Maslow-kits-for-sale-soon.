@@ -30,7 +30,7 @@ Check out the MaslowCommunityGarden.org website where users are posting, and sha
 
 We wish to extend a huge "THANK YOU" to the Maslow community members, for being generous enough to share their amazing work and be a constant support for new users. 
 
-:warning:Whoever you buy your kit from, make sure your kit comes with the new shield v1.4 to avoid future problems. 
+:warning:Whoever you are buying your kit from, make sure it comes with the new shield v1.4 to avoid future problems. 
 Do your research, compare and then decide on what’s best for you :)
 
 ```diff
