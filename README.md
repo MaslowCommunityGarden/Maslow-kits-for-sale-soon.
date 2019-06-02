@@ -20,7 +20,7 @@ Check our complete parts list [HERE](https://www.eastbaysource.com/blogs/news/ma
 
 **Software and sample projects been always downloadable for free thanks to Bar and the community.**
 
-Download the riginal software [HERE](https://github.com/MaslowCNC/GroundControl/releases). 
+Download the original software [HERE](https://github.com/MaslowCNC/GroundControl/releases). 
 
 Original Firmware [HERE](https://github.com/MaslowCNC/Firmware/releases/)
 
