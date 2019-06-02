@@ -1,6 +1,6 @@
 This is an original Maslow kit with the latest upgrades.
 
--We are and AUTORIZED kit supplier as well. Don't get misled with questionable marketing techniques into buy an outdated kit. Do your research and decide what's best for you.
+- We are and AUTORIZED kit supplier as well. Don't get misled with questionable marketing techniques into buy an outdated kit. Do your research and decide what's best for you.
 
 You can follow step by step instructions to assembly and use it [here](https://www.maslowcnc.com/assemblyguide)
 
