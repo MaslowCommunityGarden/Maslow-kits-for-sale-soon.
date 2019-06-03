@@ -6,14 +6,15 @@ Maslow Kits in stock now, ships today from USA via priority mail (3-5 days to de
 
 Complete kit X,Y,Z, axis and ring system.
 
-|Real improvements:                                                                                                                    |
-|--------------------------------------------------------------------------------------------------------------------------------------|
-|- **[Upgraded shield V1.4](https://www.eastbaysource.com/blogs/product-info/product-detail) (plug and play) included at no extra cost ($75 value).**|
-|- **Improved, stronger ring, carriages and L brackets.**                                                                              |
-|- **Upgraded motor gears.**                                                                                                           |
-|- **Full 6 months warranty on all parts (including shipping).**                                                                       |   
-|- **Free support.**                                                                                                                   |
+Real improvements:                                                                                                                    
 
+- **[Upgraded shield V1.4](https://www.eastbaysource.com/blogs/product-info/product-detail) (plug and play) included at no extra cost ($75 value).**
+- **Improved, stronger ring, carriages and L brackets.**                                                                              
+- **Upgraded motor gears.**                                                                                                           
+- **Full 6 months warranty on all parts (including shipping).**                                                                         
+- **Free support.**                                                                                                                   
+
+![NOTE](https://github.com/MaslowCommunityGarden/Maslow-kits-for-sale-soon./blob/master/note.gif)
 
 We are here to help and collaborate, we always answer all our e-mails within a day.
 
