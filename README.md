@@ -21,13 +21,13 @@ Support for this shield was also included in the original firmware since version
 
 We are here to help and collaborate, we always answer all our e-mails within a day.
 
-Check our complete parts list [HERE](https://www.eastbaysource.com/blogs/news/maslow-full-kit-parts-list)
+- Check our complete parts list [HERE](https://www.eastbaysource.com/blogs/news/maslow-full-kit-parts-list)
 
-Download the original software [HERE](https://github.com/MaslowCNC/GroundControl/releases). 
+ -Download the original software [HERE](https://github.com/MaslowCNC/GroundControl/releases). 
 
-Original Firmware [HERE](https://github.com/MaslowCNC/Firmware/releases/)
+ -Original Firmware [HERE](https://github.com/MaslowCNC/Firmware/releases/)
 
-Official step by step assembly guide [HERE](https://www.maslowcnc.com/assemblyguide).
+ -Official step by step assembly guide [HERE](https://www.maslowcnc.com/assemblyguide).
 
 Check out the MaslowCommunityGarden.org website where users are posting, and sharing their amazing work for free [HERE](http://maslowcommunitygarden.org/index.html). Just click on any project you like and download the files to recreate their work.
 
