@@ -14,7 +14,7 @@ Real improvements:
 - **6 months warranty on all parts (including shipping).**                                                                         
 - **Free support.**                                                                                                                   
 
-![NOTE](https://github.com/MaslowCommunityGarden/Maslow-kits-for-sale-soon./blob/master/note.gif)
+![Kit Info](https://github.com/MaslowCommunityGarden/Maslow-kits-for-sale-soon./blob/master/note.gif)
 
 We are here to help and collaborate, we always answer all our e-mails within a day.
 
