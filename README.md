@@ -1,4 +1,4 @@
-# MAslow Full kit + Latest v1.4 shield + Free Priority mail to all USA
+# Maslow Full kit + Latest v1.4 shield + Free Priority mail to all USA
 
 Visit [EastBaySource.com](https://www.eastbaysource.com/collections/all) to purchase.
 
