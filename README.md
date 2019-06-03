@@ -21,7 +21,7 @@ Support for this shield was also included in the original firmware since version
 
 We are here to help and collaborate, we always answer all our e-mails within a day.
 
-- Check our complete parts list [HERE](https://www.eastbaysource.com/blogs/news/maslow-full-kit-parts-list)
+- See our complete parts list [HERE](https://www.eastbaysource.com/blogs/news/maslow-full-kit-parts-list)
 
 - Download the original software [HERE](https://github.com/MaslowCNC/GroundControl/releases). 
 
