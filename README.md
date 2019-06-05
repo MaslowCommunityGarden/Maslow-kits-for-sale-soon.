@@ -1,6 +1,6 @@
 # Maslow Full kit + Latest v1.4 shield + Free Priority mail to all USA
 
-In stock now, ships today!
+In stock now, all you need to start projects today!
 
 Visit [EastBaySource.com](https://www.eastbaysource.com/collections/all) to purchase.
 
@@ -39,4 +39,3 @@ We are an authorized third party supplier aswell. Maslow cnc is an open source c
 Do your research, compare and then decide on what is best for you :)
 
 -Gab 
-
