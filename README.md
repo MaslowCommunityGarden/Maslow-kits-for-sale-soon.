@@ -4,11 +4,11 @@ In stock now, all you need to start projects today!
 
 Visit [EastBaySource.com](https://www.eastbaysource.com/collections/all) to purchase.
 
-Maslow Kits in stock now, ships today from USA via priority mail (3-5 days to deliver, or 6-10 days international).
+Maslow Kits in stock now, **ships today from USA via priority mail** (3-5 days to deliver, or 6-10 days international).
 
 Complete kit X,Y,Z, axis and ring system.
 
-Real improvements:                                                                                                                    
+*Real improvements:*                                                                                                                    
 
 - **[Latest shield V1.4](https://www.eastbaysource.com/blogs/product-info/product-detail) included at no extra cost ($75 value).**
 - **Improved, stronger ring, carriages and L brackets.**                                                                              
