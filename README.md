@@ -21,7 +21,7 @@ We are here to help and collaborate, we always answer all our e-mails within a d
 ![NOTE. The new shield v1.4 was a much needed upgrade to the kit, it was initially created by a community member @blurf to solve the problems of the shield v1.2 (burn out), and it is now produced by us with a few safety improvements. 
 Support for this shield was also included in the original firmware since version 1.4 (more than a year ago). It is a Plug and Play shield made in USA that will not fail](https://raw.githubusercontent.com/MaslowCommunityGarden/Maslow-kits-for-sale-soon./master/note.gif)
 
-See more about the **old (1.2) vs latest shield (v1.4) [HERE]**(https://www.eastbaysource.com/blogs/product-info/product-detail)
+See more about the **old (1.2) vs latest shield (v1.4) [HERE](https://www.eastbaysource.com/blogs/product-info/product-detail)**
 
 - See our complete parts list [HERE](https://www.eastbaysource.com/blogs/news/maslow-full-kit-parts-list)
 
