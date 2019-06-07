@@ -1,4 +1,4 @@
-This is an original Maslow kit with the latest upgrades.
+This is a Maslow kit with the latest upgrades.
 
 - We are and AUTORIZED kit supplier as well. Don't get misled with marketing techniques into buy an outdated kit. Do your research and decide what's best for you.
 
