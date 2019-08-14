@@ -11,7 +11,8 @@ Complete kit X,Y,Z, axis and ring system.
 *Real improvements:*                                                                                                                    
 
 - **[Latest shield V1.4](https://www.eastbaysource.com/blogs/product-info/product-detail) included at no extra cost ($75 value).**
-- **Improved, stronger ring, carriages and L brackets.**                                                                              
+- **Improved, stronger ring, carriages and L brackets.** 
+- **Z-axis controll.**
 - **Upgraded motor gears.**                                                                                                           
 - **6 months full warranty on all parts (including shipping).**                                                                         
 - **Free support.**      
