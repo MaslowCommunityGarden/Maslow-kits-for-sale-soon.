@@ -6,13 +6,13 @@ Visit [EastBaySource.com](https://www.eastbaysource.com/collections/all) to purc
 
 Maslow Kits in stock now, **ships today from USA via priority mail** (3-5 days to deliver, or 6-10 days international).
 
-Complete kit X,Y,Z, axis and ring system.
+This is the latest version of the Original Maslow cnc kit with upgrades, a proven system currently been used by thousands of makers worldwide!
 
-*Real improvements:*                                                                                                                    
+*Improvements:*                                                                                                                    
 
 - **[Latest shield V1.4](https://www.eastbaysource.com/blogs/product-info/product-detail) included at no extra cost ($75 value).**
 - **Improved, stronger ring, carriages and L brackets.** 
-- **Z-axis control.**
+- **Automated Z-axis control.**
 - **Upgraded motor gears.**                                                                                                           
 - **6 months full warranty on all parts (including shipping).**                                                                         
 - **Free support.**      
