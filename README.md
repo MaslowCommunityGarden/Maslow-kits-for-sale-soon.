@@ -10,7 +10,7 @@ This is the latest version of the Original Maslow cnc kit with upgrades, a prove
 
 *Improvements:*                                                                                                                    
 
-- **[Latest shield V1.4](https://www.eastbaysource.com/blogs/product-info/product-detail) included at no extra cost ($75 value).**
+- **[Latest shield V1.4](https://www.eastbaysource.com/blogs/product-info/product-detail) included at no extra cost ($75 value) with router on/off capability** 
 - **Improved, stronger ring, carriages and L brackets.** 
 - **Automated Z-axis control.**
 - **Upgraded motor gears.**                                                                                                           
