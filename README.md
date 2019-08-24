@@ -1,10 +1,10 @@
-# Maslow Full kit + Latest v1.4 shield + Free Priority mail to all USA
+# Maslow Full kit + Latest v1.4 shield + Automated Z-axis.
 
 In stock now, all you need to start projects today!
 
-Visit [EastBaySource.com](https://www.eastbaysource.com/collections/all) to purchase.
+**Ships today from USA via priority mail** (3-5 days to deliver, or 6-10 days international).
 
-Maslow Kits in stock now, **ships today from USA via priority mail** (3-5 days to deliver, or 6-10 days international).
+Visit [EastBaySource.com](https://www.eastbaysource.com/collections/all) to purchase.
 
 This is the latest version of the Original Maslow cnc kit with upgrades, a proven system currently been used by thousands of makers worldwide!
 
