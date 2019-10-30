@@ -24,7 +24,7 @@ Support for this shield was also included in the original firmware since version
 
 
 
-![New shield v1.4](https://raw.githubusercontent.com/MaslowCommunityGarden/Maslow-kits-for-sale-soon./master/shield_1.4.jpg)
+![New shield v1.4](https://raw.githubusercontent.com/MaslowCommunityGarden/Maslow-kits-for-sale-soon./master/TLE_v14.jpg)
 
 
 See more about the **old (1.2) vs latest shield (v1.4) [HERE](https://www.eastbaysource.com/blogs/product-info/product-detail)**
