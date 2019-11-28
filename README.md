@@ -2,7 +2,7 @@
 
 In stock now, all you need to start projects today!
 
-**Ships today from USA via priority mail** (3-5 days to deliver, or 6-10 days international).
+**Ships free today from USA via priority mail** (3-5 days to deliver, or 6-10 days international).
 
 Visit [EastBaySource.com](https://www.eastbaysource.com/collections/all) to purchase.
 
