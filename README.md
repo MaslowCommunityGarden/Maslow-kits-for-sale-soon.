@@ -6,7 +6,7 @@ In stock now, all you need to start projects today!
 
 Visit [EastBaySource.com](https://www.eastbaysource.com/collections/all) to purchase.
 
-This is the latest version of the Original Maslow cnc kit with upgrades, a proven system currently been used by thousands of makers worldwide!
+This is the latest version of the Maslow cnc kit with upgrades, a proven system currently been used by thousands of makers worldwide!
 
 *Improvements:*                                                                                                                    
 
