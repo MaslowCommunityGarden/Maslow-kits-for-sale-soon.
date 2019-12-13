@@ -6,7 +6,7 @@ In stock now, all you need to start projects today!
 
 Visit [EastBaySource.com](https://www.eastbaysource.com/collections/all) to purchase.
 
-This is the original and latest version of the Bar Smith's Maslow cnc kit, the system that is currently been used by thousands of makers worldwide, a well proven and functional design that also comes with the latest and **all new** shield that won't let you down (TLE5206 v1.4)
+This is the original and latest version of Bar Smith's Maslow kit, the system that is currently been used by thousands of makers worldwide, a well proven and functional design that also comes with the latest and **all new** shield that won't let you down (TLE5206 v1.4)
 
 
 What **is** included:
