@@ -6,18 +6,36 @@ In stock now, all you need to start projects today!
 
 Visit [EastBaySource.com](https://www.eastbaysource.com/collections/all) to purchase.
 
-This is the latest version of the Maslow cnc kit with upgrades, a proven system currently been used by thousands of makers worldwide!
+This is the original and latest version of the Bar Smith's Maslow cnc kit, the system that is currently been used by thousands of makers worldwide, a well proven and functional design that also comes with the latest and **all new** shield that won't let you down (TLE5206 v1.4)
 
-*Improvements:*                                                                                                                    
 
-- **[Latest shield V1.4](https://www.eastbaysource.com/blogs/product-info/product-detail) included at no extra cost ($75 value) with router on/off capability.** 
-- **Improved, stronger ring, carriages and L brackets.** 
-- **Automated Z-axis control.**
-- **Upgraded motor gears.**                                                                                                           
-- **6 months full warranty on all parts (including shipping).**                                                                         
-- **Free support.**      
+What **is** included:
 
-We are here to help and collaborate, we always answer all our e-mails within a day.
+- **Complete Kit**
+- **Ring System**
+- **All New Plug and Play Shield TLE5206 v1.4** (originally designed by @blurfl and requested by the community to supersede the old v1.2)
+- **Y / X / Z Original Etonm Motors**
+- **Z-axis control**
+- **All needed software for free**
+- **Sprocket Alignment Tool**
+- **All hardware needed to assemble (chains, brackets, bolts and more..)**
+- **6 Months Full Warranty on All Parts Including Shipping**
+
+What is **not** included:
+
+- Computer
+- 2x4's to build the wooden frame
+- Router
+- 2 Bricks
+
+
+NOTE. We are in this project because we believe in to "make large technology available to anyone" and in the open source/makers movement.
+The price of the latest Maslow kit with z-axis once sold by Bar Smith was **U$S 410 + shipping**, We are proud to be offering the same kit with even better electronics for **U$S 399 free shipping** in al USA (2-5 days delivery in USA, 6-10 worldwide) 
+
+We are here to help and collaborate, we will not inflate the price including parts that you can make with the kit itself (wooden sled and brick straps), or bonuses that are actually FREE downloadable resources as Inkscape and sample projects.
+
+
+We are committed to continue supplying quality kits and parts to the Maslow community.
 
 ![NOTE. The new shield v1.4 was a much needed upgrade to the kit, it was initially created by a community member @blurf to solve the problems of the shield v1.2 (burn out), and it is now produced by us with a few safety improvements. 
 Support for this shield was also included in the original firmware since version 1.4 (more than a year ago). It is a Plug and Play shield made in USA that will not fail](https://raw.githubusercontent.com/MaslowCommunityGarden/Maslow-kits-for-sale-soon./master/note.gif)
@@ -31,21 +49,34 @@ See more about the **old (1.2) vs latest shield (v1.4) [HERE](https://www.eastba
 
 Do your research, compare and then decide on what is best for you :)
 
-- See our complete parts list [HERE](https://www.eastbaysource.com/blogs/news/maslow-full-kit-parts-list)
+- See our complete parts list [HERE](https://www.eastbaysource.com/blogs/news/maslow-full-kit-parts-list).
 
 - Download the original software [HERE](https://github.com/MaslowCNC/GroundControl/releases). 
 
-- Original Firmware [HERE](https://github.com/MaslowCNC/Firmware/releases/)
+- Original Firmware [HERE](https://github.com/MaslowCNC/Firmware/releases/).
 
 - Official step by step assembly guide [HERE](https://www.maslowcnc.com/assemblyguide).
 
+- Files to cut your own sled [HERE](https://github.com/MaslowCNC/Mechanics/tree/master/SVG%20Files).
+
+- Download a free copy of Inkscape [HERE](https://inkscape.org/).
+
 Check out the MaslowCommunityGarden.org website where users are posting, and sharing their amazing work for free [HERE](http://maslowcommunitygarden.org/index.html). Just click on any project you like and download the files to recreate their work.
 
-- **Software and sample projects have been always downloadable for free thanks to Bar and the community.**
+- **Software and sample projects are downloadable for free thanks to Bar and the community.**
 
 We wish to extend a huge "THANK YOU" to the Maslow community members, for being generous enough to share their amazing work and be a constant support for new users. 
 
-We are an authorized third party supplier aswell. Maslow cnc is an open source created by Bar Smith and funded/supported by the Maslow community, we are honored to be part of it and to be allowed to be a source for **quality and improved kits**.
+**We are an authorized Maslow cnc supplier**. Maslow cnc is an open source created by Bar Smith and funded/supported by the Maslow community, we are honored to be part of it and to be allowed to be a source for **quality and improved kits**.
+
+There are 4 kit providers at the moment to choose from:
+
+    @EastBaySource
+    @MetalMaslow
+    @MaslowSurplusParts
+    @MakerMadecnc
+
+Do your research, compare and decide what's best for you.
 
 
 -Gab
