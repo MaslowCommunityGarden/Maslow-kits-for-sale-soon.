@@ -1,4 +1,4 @@
-This is the latest version and most up to date of the Maslow kit that has been sold previously on this site by Bar Smith (original creator).
+This is the latest and most up to date version of the Maslow kit that has been sold previously on this site by Bar Smith (original creator).
 
 We are committed to continue supplying quality kits and parts to the Maslow community.
 
