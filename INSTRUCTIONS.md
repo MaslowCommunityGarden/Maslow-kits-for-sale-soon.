@@ -25,7 +25,7 @@ What is **not** included:
 
 
 NOTE. We are in this project because we believe in to "make large technology available to anyone" and in the open source/makers movement.
-The price of the latest Maslow cnc kit including the z-axis was **U$S 410 + shipping**, We are proud to be offering the same kit with even better electronics for **U$S 399 free shipping** in al USA (2-5 days delivery in USA, 6-10 worldwide) 
+The price of the latest Maslow kit with z-axis sold by Bar Smith was **U$S 410 + shipping**, We are proud to be offering the same kit with even better electronics for **U$S 399 free shipping** in al USA (2-5 days delivery in USA, 6-10 worldwide) 
 
 We'll not inflate the kit price including parts that you can make with the kit itself (wooden sled and brick straps), or bonuses that are actually FREE downloadable resources as INKSCAPE and sample projects.
 
