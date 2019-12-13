@@ -30,7 +30,7 @@ What is **not** included:
 
 
 NOTE. We are in this project because we believe in to "make large technology available to anyone" and in the open source/makers movement.
-The price of the latest Maslow kit with z-axis once sold by Bar Smith was **U$S 410 + shipping**, We are proud to be offering the same kit with even better electronics for **U$S 399 free shipping** in al USA (2-5 days delivery in USA, 6-10 worldwide) 
+The price of the latest Maslow kit with z-axis sold by Bar Smith was **U$S 410 + shipping**, We are proud to be offering the same full kit with improved electronics for **U$S 399 free shipping** all without sacrificing quality, we are still using the same manufacturers as Bar did and everyone else uses with the exception of the improved shield and ring system which are made in USA.
 
 We are here to help and collaborate, we will not inflate the price including parts that you can make with the kit itself (wooden sled and brick straps), or bonuses that are actually FREE downloadable resources as Inkscape and sample projects.
 
