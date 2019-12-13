@@ -9,11 +9,11 @@ What **is** included:
 - **Complete Kit**
 - **Ring System**
 - **All New Plug and Play Shield TLE5206 v1.4** (originally designed by @blurfl and requested by the community to supersede the old v1.2)
-- **Y / X / Z Original Etonm Motors
+- **Y / X / Z Original Etonm Motors**
 - **Z-axis control**
 - **All needed software for free**
 - **Sprocket Alignment Tool**
-- **All hardware needed to assemble (chains, brackets, bolts and more..)
+- **All hardware needed to assemble (chains, brackets, bolts and more..)**
 - **6 Months Full Warranty on All Parts Including Shipping**
 
 What is **not** included:
