@@ -8,12 +8,12 @@ What **is** included:
 
 - **Complete Kit**
 - **Ring System**
-- **All New Plug and Play Shield TLE5206 v1.4** (originally designed by @blurfl to supersede the old v1.2)
+- **All New Plug and Play Shield TLE5206 v1.4 made in USA** (originally designed by @blurfl to supersede the old v1.2)
 - **Y / X / Z Original Etonm Motors**
 - **Z-axis control**
 - **All needed software for free**
 - **Sprocket Alignment Tool**
-- **All hardware needed to assemble (chains, brackets, bolts and more..)**
+- **All hardware needed to assemble (chains, brackets, bolts, cables and more..)**
 - **6 Months Full Warranty on All Parts Including Shipping**
 
 What is **not** included:
@@ -25,7 +25,7 @@ What is **not** included:
 
 
 NOTE. We are in this project because we believe in to "make large technology available to anyone" and in the open source/makers movement.
-The price of the latest Maslow kit with z-axis sold by Bar Smith was **U$S 410 + shipping**, We are proud to be offering the same kit with improved made in USA electronics for **U$S 399 free shipping** in al USA (2-5 days delivery in USA, 6-10 worldwide) 
+The price of the latest Maslow kit with z-axis sold by Bar Smith was **U$S 410 + shipping**, We are proud to be offering the same kit with improved electronics for **U$S 399 free shipping** in al USA (2-5 days delivery in USA, 6-10 worldwide) 
 
 We're not inflating the kit price including parts that you can make with the kit itself (wooden sled and brick straps), or bonuses that are actually FREE downloadable resources as INKSCAPE and sample projects.
 
