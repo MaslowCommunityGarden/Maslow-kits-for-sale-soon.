@@ -47,7 +47,6 @@ Support for this shield was also included in the original firmware since version
 
 See more about the **old (1.2) vs latest shield (v1.4) [HERE](https://www.eastbaysource.com/blogs/product-info/product-detail)**
 
-Do your research, compare and then decide on what is best for you :)
 
 - See our complete parts list [HERE](https://www.eastbaysource.com/blogs/news/maslow-full-kit-parts-list).
 
