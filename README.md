@@ -19,7 +19,7 @@ What **is** included:
 - **Z-axis control**
 - **All needed software for free**
 - **Sprocket Alignment Tool**
-- **All hardware needed to assemble (chains, brackets, bolts and more..)**
+- **All hardware needed to assemble (chains, brackets, bolts, brackets, bearings and more..)**
 - **6 Months Full Warranty on All Parts Including Shipping**
 
 What is **not** included:
