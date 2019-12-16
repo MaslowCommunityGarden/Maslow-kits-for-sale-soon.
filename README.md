@@ -28,6 +28,7 @@ What is **not** included:
 - Router
 - 2 Bricks
 
+#
 
 NOTE. We are in this project because we believe in to "Make Large CNC Technology Available to Anyone" and in the Open Source/Makers Movement.
 The price of the latest Maslow kit with z-axis and ring system sold by Bar Smith was **U$S 410 + shipping**, We are proud to be offering the same full kit with improved electronics for **U$S 399 free shipping** all without sacrificing quality, we are still using the same manufacturers as Bar did and everyone else does with the exception of the improved shield and ring system which are made in USA.
