@@ -69,7 +69,7 @@ See more about the **old (v1.2) vs. latest shield (v1.4) [HERE](https://www.east
 
 - Official step by step assembly guide [HERE](https://www.maslowcnc.com/assemblyguide).
 
-- Files to cut your own sled [HERE](https://github.com/MaslowCNC/Mechanics/tree/master/SVG%20Files).
+- Files to cut your own sled [HERE](https://github.com/MaslowCommunityGarden/Sled-With-Center-Alignment-Jig).
 
 - Download a free copy of Inkscape [HERE](https://inkscape.org/).
 
