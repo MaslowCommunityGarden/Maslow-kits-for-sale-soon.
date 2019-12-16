@@ -41,7 +41,7 @@ Since then, three official versions of this kit have been introduced by Barbour 
 (There is also a version with trapezoidal linkage system created by community members that replaces the ring system and seems to work as good as the original, however it’s not nearly as widely used as the well proven ring system created by Bar Smith.)
 
 
-The price of the latest Maslow kit with z-axis and ring system sold by Bar Smith was **U$S 410 + shipping**.
+The price of the latest Maslow kit with z-axis and ring system sold by Bar Smith after the kickstarter campaign was **U$S 410 + shipping**.
 
 We are proud to be offering the same complete kit with improved electronics for **U$S 399 free shipping**, all without sacrificing quality, we are still using the same manufacturers as Bar did and everyone else does with the exception of the improved shield and ring system which are made in USA. 
 
