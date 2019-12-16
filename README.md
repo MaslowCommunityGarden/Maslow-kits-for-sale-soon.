@@ -47,6 +47,7 @@ We are proud to be offering the same full kit with improved electronics for **U$
 
 Our goal is to "Make Large cnc Technology Available to Anyone, we will not inflate the price including parts that you can make with the kit itself (wooden sled and brick straps), or bonuses that are actually FREE downloadable resources as Inkscape and sample projects.
 
+#
 
 
 ![NOTE. The new shield v1.4 was a much needed upgrade to the kit, it was initially created by a community member @blurf to solve the problems of the shield v1.2 (burn out), and it is now produced by us with a few safety improvements. 
