@@ -6,14 +6,14 @@ In stock now, all you need to start projects today!
 
 Visit [EastBaySource.com](https://www.eastbaysource.com/collections/all) to purchase.
 
-This is the original and latest version of Bar Smith's Maslow kit, the system that is currently been used by thousands of makers worldwide, a well proven and functional design that also comes with the latest and **all new** shield that won't let you down (TLE5206 v1.4)
+This is the newest version of tha Maslow kit, the system that is currently been used by thousands of makers worldwide, a well proven and functional design which also includes the **all new** upgraded shield that won't let you down (TLE5206 v1.4)
 
 
 What **is** included:
 
 - **Complete Kit**
 - **Ring System**
-- **All New Plug and Play Shield TLE5206 v1.4** (originally designed by @blurfl and requested by the community to supersede the old v1.2)
+- **All New Plug and Play Shield TLE5206 v1.4** (designed to supersede the old v1.2)
 - **Y / X / Z Original Etonm Motors**
 - **Z-axis control**
 - **All needed software for free**
@@ -30,13 +30,17 @@ What is **not** included:
 
 #
 
-NOTE. We are in this project because we believe in to "Make Large CNC Technology Available to Anyone" and in the Open Source/Makers Movement.
-The price of the latest Maslow kit with z-axis and ring system sold by Bar Smith was **U$S 410 + shipping**, We are proud to be offering the same full kit with improved electronics for **U$S 399 free shipping** all without sacrificing quality, we are still using the same manufacturers as Bar did and everyone else does with the exception of the improved shield and ring system which are made in USA.
+**Note to new users**, this project started its life after a successful KickStarter campaign.
+Since then three official versions of this kit has been introduced by Barbour Smith (creator) before he and reached out for suppliers to cope with the incoming demand.
 
-We are here to help and collaborate, we do not inflate the price including parts that you can make with the kit itself (wooden sled and brick straps), or bonuses that are actually FREE downloadable resources as Inkscape and sample projects.
+v1 – Original kit with two heavy L brackets (instead the ring system), and NO motorized/automated z-axis.
+v2 – Same as v1 with the added motorized/automated Z-axis.
+v3 – Latest version with Ring system (instead L brackets), motorized/automated Z-axis.
+
+(There is also a version with trapezoidal linkage system created by community members that replaces the ring system and seems to work as good as the original, however it’s not nearly as widely used as the well proven ring system created by Bar Smith.)
+The price of the latest Maslow kit with z-axis and ring system sold by Bar Smith was **U$S 410 + shipping**, We are proud to be offering the same full kit with improved electronics for **U$S 399 free shipping** all without sacrificing quality, we are still using the same manufacturers as Bar did and everyone else does with the exception of the improved shield and ring system which are made in USA. We will not inflate the price including parts that you can make with the kit itself (wooden sled and brick straps), or bonuses that are actually FREE downloadable resources as Inkscape and sample projects.
 
 
-We are committed to continue supplying quality kits and parts to the Maslow community.
 
 ![NOTE. The new shield v1.4 was a much needed upgrade to the kit, it was initially created by a community member @blurf to solve the problems of the shield v1.2 (burn out), and it is now produced by us with a few safety improvements. 
 Support for this shield was also included in the original firmware since version 1.4 (more than a year ago). It is a Plug and Play shield made in USA that will not fail](https://raw.githubusercontent.com/MaslowCommunityGarden/Maslow-kits-for-sale-soon./master/note.gif)
@@ -69,7 +73,7 @@ We wish to extend a huge "THANK YOU" to the Maslow community members, for being 
 
 **We are an authorized Maslow cnc supplier**. Maslow cnc is an open source created by Bar Smith and funded/supported by the Maslow community, we are honored to be part of it and to be allowed to be a source for **quality and improved kits**.
 
-There are 4 kit providers at the moment to choose from:
+Providers at the moment to choose from:
 
     @EastBaySource
     @MetalMaslow
