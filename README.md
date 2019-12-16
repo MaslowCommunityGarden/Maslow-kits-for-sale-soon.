@@ -1,4 +1,4 @@
-# Maslow Full kit + Latest v1.4 shield + Automated Z-axis.
+# Maslow Complete kit + Latest v1.4 shield + Automated Z-axis.
 
 In stock now, all you need to start projects today!
 
