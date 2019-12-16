@@ -32,7 +32,7 @@ What is **not** included:
 #
 
 **NOTE TO NEW USERS**, this project started its life after a successful KickStarter campaign.
-Since then three official versions of this kit has been introduced by Barbour Smith (creator) before he reached out for suppliers to cope with the incoming demand.
+Since then, three official versions of this kit have been introduced by Barbour Smith (creator) before he decided to reach out for third party kit suppliers.
 
 - 1 Original kit with two heavy L brackets (instead the ring system), and NO motorized/automated z-axis.
 - 2 Option for a motorized/automated Z-axis was added.
