@@ -34,9 +34,9 @@ What is **not** included:
 **NOTE TO NEW USERS**, this project started its life after a successful KickStarter campaign.
 Since then three official versions of this kit has been introduced by Barbour Smith (creator) before he reached out for suppliers to cope with the incoming demand.
 
-- v1 Original kit with two heavy L brackets (instead the ring system), and NO motorized/automated z-axis.
-- v2 Same as v1 with the added motorized/automated Z-axis.
-- v3 Latest version with Ring system (instead L brackets), motorized/automated Z-axis.
+- 1 Original kit with two heavy L brackets (instead the ring system), and NO motorized/automated z-axis.
+- 2 Option for a motorized/automated Z-axis was added.
+- 3 Latest version with Ring system (instead L brackets), motorized/automated Z-axis.
 
 (There is also a version with trapezoidal linkage system created by community members that replaces the ring system and seems to work as good as the original, however it’s not nearly as widely used as the well proven ring system created by Bar Smith.)
 
