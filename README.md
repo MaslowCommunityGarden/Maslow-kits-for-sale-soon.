@@ -38,7 +38,7 @@ Since then, three official versions of this kit have been introduced by Barbour 
 - v2 Option for a motorized/automated Z-axis was added.
 - v3 Latest version with Ring system (instead L brackets), motorized/automated Z-axis.
 
-(There is also a version with trapezoidal linkage system created by community members that replaces the ring system and seems to work as good as the original, however it’s not nearly as widely used as the well proven ring system created by Bar Smith.)
+(There is also a version with trapezoidal linkage system created by community members that replaces the ring system and seems to work as good as the original, however it is not nearly as widely used as the well proven ring system created by Bar Smith.)
 
 
 The price of the latest Maslow kit with z-axis and ring system sold by Bar Smith after the kickstarter campaign was **U$S 410 + shipping**.
