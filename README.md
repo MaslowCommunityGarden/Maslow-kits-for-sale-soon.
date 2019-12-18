@@ -28,7 +28,7 @@ This is the newest version of the Maslow kit, the system that is currently been 
 
 
 **NOTE TO NEW USERS**, this project started its life after a successful KickStarter campaign.
-Since then, three official versions of this kit have been introduced by Barbour Smith (creator) before he decided to reach out for third party kit suppliers.
+Since then, three official versions of this kit have been introduced by Barbour Smith (creator) before he decided to outsource the sales.
 
 - v1 Original kit with two heavy L brackets (instead the ring system), and NO motorized/automated z-axis.
 - v2 Option for a motorized/automated Z-axis was added.
