@@ -45,8 +45,6 @@ The price of the latest Maslow kit with z-axis and ring system sold by Bar Smith
 
 We are proud to be offering the complete kit with improved electronics for **U$S 399 free shipping**, all without sacrificing quality, we are still using the same manufacturers as Bar did and everyone else does with the exception of the improved shield and ring system which are made in USA. 
 
-Our goal is to "Make Large cnc Technology Available to Anyone", we do not include parts that you can make with the kit itself (wooden sled and brick straps), or bonuses that are actually FREE downloadable resources as Inkscape and sample projects.
-
 #
 
 
