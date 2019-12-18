@@ -10,7 +10,7 @@ This is the newest version of the Maslow kit, the system that is currently been 
 
 
 
-What **is** included:
+**What is included:**
 
 - **Complete Kit**
 - **Ring System**
@@ -23,12 +23,6 @@ What **is** included:
 - **6 Months Full Warranty on All Parts Including Shipping**
 
 
-What is **not** included:
-
-- Computer
-- 2x4's to build the wooden frame
-- Router
-- 2 Bricks
 
 ![Complete Kit](https://raw.githubusercontent.com/MaslowCommunityGarden/Maslow-kits-for-sale-soon./master/fullkit_wb.jpg)
 
