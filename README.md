@@ -23,8 +23,6 @@ What **is** included:
 - **6 Months Full Warranty on All Parts Including Shipping**
 
 
-![Complete Kit](https://raw.githubusercontent.com/MaslowCommunityGarden/Maslow-kits-for-sale-soon./master/fullkit_wb.jpg)
-
 What is **not** included:
 
 - Computer
@@ -32,6 +30,7 @@ What is **not** included:
 - Router
 - 2 Bricks
 
+![Complete Kit](https://raw.githubusercontent.com/MaslowCommunityGarden/Maslow-kits-for-sale-soon./master/fullkit_wb.jpg)
 
 
 **NOTE TO NEW USERS**, this project started its life after a successful KickStarter campaign.
