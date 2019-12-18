@@ -22,6 +22,9 @@ What **is** included:
 - **All hardware needed to assemble (chains, brackets, bolts, bearings and more..)**
 - **6 Months Full Warranty on All Parts Including Shipping**
 
+
+![Complete Kit](https://raw.githubusercontent.com/MaslowCommunityGarden/Maslow-kits-for-sale-soon./master/fullkit_wb.jpg)
+
 What is **not** included:
 
 - Computer
@@ -29,7 +32,7 @@ What is **not** included:
 - Router
 - 2 Bricks
 
-#
+
 
 **NOTE TO NEW USERS**, this project started its life after a successful KickStarter campaign.
 Since then, three official versions of this kit have been introduced by Barbour Smith (creator) before he decided to reach out for third party kit suppliers.
@@ -45,7 +48,7 @@ The price of the latest Maslow kit with z-axis and ring system sold by Bar Smith
 
 We are proud to be offering the complete kit with improved electronics for **U$S 399 free shipping**, all without sacrificing quality, we are still using the same manufacturers as Bar did and everyone else does with the exception of the improved shield and ring system which are made in USA. 
 
-#
+
 
 
 ![NOTE. The new shield v1.4 was a much needed upgrade to the kit, it was initially created by a community member @blurf to solve the problems of the shield v1.2 (burn out), and it is now produced by us with a few safety improvements. 
@@ -73,7 +76,7 @@ See more about the **shield v1.4 vs. old v1.2 [HERE](https://www.eastbaysource.c
 
 - Free projects [HERE](http://maslowcommunitygarden.org/index.html).
 
-#
+
 
 - **Software and sample projects are downloadable for free thanks to Bar and the community.**
 
