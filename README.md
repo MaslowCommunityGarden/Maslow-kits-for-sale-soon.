@@ -71,9 +71,9 @@ See more about the **shield v1.4 vs. old v1.2 [HERE](https://www.eastbaysource.c
 
 - Download a free copy of Inkscape [HERE](https://inkscape.org/).
 
-#
+- Free projects [HERE](http://maslowcommunitygarden.org/index.html).
 
-Check out the MaslowCommunityGarden.org website where users are posting, and sharing their amazing work for free [HERE](http://maslowcommunitygarden.org/index.html). Just click on any project you like and download the files to recreate their work.
+#
 
 - **Software and sample projects are downloadable for free thanks to Bar and the community.**
 
