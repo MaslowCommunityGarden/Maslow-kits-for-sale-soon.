@@ -6,7 +6,7 @@ In stock now, all you need to start projects today!
 
 Visit [EastBaySource.com](https://www.eastbaysource.com/collections/all) to purchase.
 
-This is the newest version of the Maslow kit, the system that is currently being used by thousands of makers worldwide, a well proven and functional design which also includes the **all new** upgraded shield that won't let you down (TLE5206 v1.4)
+This is the newest version of the Maslow kit, the system that is currently being used by thousands of makers worldwide, a well proven design which also includes the **all new** TLE5206 v1.4 shield that won't let you down.
 
 
 
