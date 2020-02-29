@@ -55,7 +55,7 @@ Support for this shield was also included in the original firmware since version
 See more about the **shield v1.4 vs. old v1.2 [HERE](https://www.eastbaysource.com/blogs/product-info/product-detail)**
 
 
-- See our complete parts list [HERE](https://www.eastbaysource.com/blogs/news/maslow-full-kit-parts-list).
+- Complete parts list [HERE](https://www.eastbaysource.com/blogs/news/maslow-full-kit-parts-list).
 
 - Download the original software [HERE](https://github.com/MaslowCNC/GroundControl/releases). 
 
@@ -75,7 +75,7 @@ See more about the **shield v1.4 vs. old v1.2 [HERE](https://www.eastbaysource.c
 
 We wish to extend a huge "THANK YOU" to the Maslow community members, for being generous enough to share their amazing work and be a constant support for new users. 
 
-**We are an authorized Maslow cnc supplier**. Maslow cnc is an open source created by Bar Smith and funded/supported by the Maslow community, we are honored to be part of it and to be allowed to be a source for **quality and improved kits**.
+**We are an authorized Maslow cnc supplier**. Maslow cnc is an open source project created by Bar Smith and funded/supported by the Maslow community, we are honored to be part of it and to be allowed to be a source for **quality and improved kits**.
 
 Providers at the moment to choose from:
 
@@ -89,4 +89,3 @@ Do your research, compare and decide what's best for you.
 
 EastBaySource
 
-Gab
