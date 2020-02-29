@@ -6,7 +6,7 @@ In stock now, all you need to start projects today!
 
 Visit [EastBaySource.com](https://www.eastbaysource.com/collections/all) to purchase.
 
-This is the newest version of the Maslow kit, the system that is currently been used by thousands of makers worldwide, a well proven and functional design which also includes the **all new** upgraded shield that won't let you down (TLE5206 v1.4)
+This is the newest version of the Maslow kit, the system that is currently being used by thousands of makers worldwide, a well proven and functional design which also includes the **all new** upgraded shield that won't let you down (TLE5206 v1.4)
 
 
 
@@ -28,13 +28,13 @@ This is the newest version of the Maslow kit, the system that is currently been 
 
 
 **NOTE TO NEW USERS**, this project started its life after a successful KickStarter campaign.
-Since then, three official versions of this kit have been introduced by Barbour Smith (creator) before he decided to outsource the sales.
+Since then, three official versions of this kit were made by Barbour Smith (kit creator) before he decided to outsource the sales.
 
 - v1 Original kit with two heavy L brackets (instead the ring system), and NO motorized/automated z-axis.
 - v2 Option for a motorized/automated Z-axis was added.
 - v3 Latest version with Ring system (instead L brackets), motorized/automated Z-axis.
 
-(There is also a version with trapezoidal linkage system created by community members that replaces the ring system and seems to work as good as the original, however it is not nearly as widely used as the well proven ring system created by Bar Smith.)
+(There is also a linkage kit version created by community members that replaces the ring system and seems to work as good as the original, however it is not nearly as widely used as the well proven ring system created by Bar Smith.)
 
 
 The price of the latest Maslow kit with z-axis and ring system sold by Bar Smith after the kickstarter campaign was **U$S 410 + shipping**.
