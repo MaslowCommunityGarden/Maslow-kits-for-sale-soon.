@@ -27,7 +27,7 @@ This is the newest version of the Maslow kit, the system that is currently being
 ![Complete Kit](https://raw.githubusercontent.com/MaslowCommunityGarden/Maslow-kits-for-sale-soon./master/fullkit_wb.jpg)
 
 
-**NOTE TO NEW USERS**, this project started its life after a successful KickStarter campaign.
+**NOTE TO NEW USERS**, The Maslow cnc project started its life after a successful KickStarter campaign.
 Since then, three official versions of this kit were made by Barbour Smith (kit creator) before he decided to outsource the sales.
 
 - v1 Original kit with two heavy L brackets (instead the ring system), and NO motorized/automated z-axis.
