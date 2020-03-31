@@ -2,7 +2,7 @@
 
 In stock now, all you need to start projects today!
 
-**Ships free today from USA via priority mail** (3-5 days to deliver, or 6-10 days international).
+**Ships today from USA via priority mail** (3-5 days to deliver, or 6-10 days international).
 
 Visit [EastBaySource.com](https://www.eastbaysource.com/collections/all) to purchase.
 
@@ -39,7 +39,7 @@ Since then, three official versions of this kit were made by Barbour Smith (kit 
 
 The price of the latest Maslow kit with z-axis and ring system sold by Bar Smith after the kickstarter campaign was **U$S 410 + shipping**.
 
-We are proud to be offering the complete kit with improved electronics for **U$S 399 free shipping**, all without sacrificing quality, we are still using the same manufacturers as Bar did with the exception of the new shield and ring system which are made in USA. 
+We are proud to be offering the complete kit with improved electronics for **U$S 399 **, all without sacrificing quality, we are still using the same manufacturers as Bar did with the exception of the new shield and ring system which are made in USA. 
 
 
 
