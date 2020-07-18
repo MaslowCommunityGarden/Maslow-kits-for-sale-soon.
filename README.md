@@ -52,10 +52,10 @@ Support for this shield was also included in the original firmware since version
 ![New shield v1.4](https://raw.githubusercontent.com/MaslowCommunityGarden/Maslow-kits-for-sale-soon./master/TLE_v14.jpg)
 
 
-See more about the **shield v1.4 vs. old v1.2 [HERE](https://www.eastbaysource.com/blogs/product-info/product-detail)**
+See more about the **shield v1.4 vs. old v1.2 [HERE](https://shop.eastbaysource.com/blogs/product-info/product-detail)**
 
 
-- Complete parts list [HERE](https://www.eastbaysource.com/blogs/news/maslow-full-kit-parts-list).
+- Complete parts list [HERE](https://shop.eastbaysource.com/blogs/news/maslow-full-kit-parts-list).
 
 - Download the original software [HERE](https://github.com/MaslowCNC/GroundControl/releases). 
 
