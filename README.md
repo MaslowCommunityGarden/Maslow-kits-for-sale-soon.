@@ -55,7 +55,7 @@ Support for this shield was also included in the original firmware since version
 See more about the **shield v1.4 vs. old v1.2 [HERE](https://shop.eastbaysource.com/blogs/product-info/product-detail)**
 
 
-- Complete parts list [HERE](https://https://www.eastbaysource.com/index.php/what-is-in-the-box).
+- Complete parts list [HERE](https://www.eastbaysource.com/index.php/what-is-in-the-box).
 
 - Download the original software [HERE](https://github.com/MaslowCNC/GroundControl/releases). 
 
