@@ -4,7 +4,7 @@ In stock now, all you need to start projects today!
 
 **Ships today from USA via priority mail** (3-5 days to deliver, or 6-10 days international).
 
-Visit [EastBaySource](https://shop.eastbaysource.com/collections/all) to purchase.
+Visit [EastBaySource](https://www.eastbaysource.com) to purchase.
 
 This is the newest version of the Maslow kit, the system that is currently being used by thousands of makers worldwide, a well proven design which also includes the **all new** TLE5206 v1.4 shield that won't let you down.
 
@@ -55,15 +55,15 @@ Support for this shield was also included in the original firmware since version
 See more about the **shield v1.4 vs. old v1.2 [HERE](https://shop.eastbaysource.com/blogs/product-info/product-detail)**
 
 
-- Complete parts list [HERE](https://shop.eastbaysource.com/blogs/news/maslow-full-kit-parts-list).
+- Complete parts list [HERE](https://https://www.eastbaysource.com/index.php/what-is-in-the-box).
 
 - Download the original software [HERE](https://github.com/MaslowCNC/GroundControl/releases). 
 
 - Original Firmware [HERE](https://github.com/MaslowCNC/Firmware/releases/).
 
-- Official step by step assembly guide [HERE](https://www.maslowcnc.com/assemblyguide).
+- Step by step assembly guide [HERE](https://www.eastbaysource.com/index.php/assembly-instructions).
 
-- Files to cut your own sled [HERE](https://github.com/MaslowCommunityGarden/Sled-With-Center-Alignment-Jig).
+- How to cut your own sled [HERE](https://www.eastbaysource.com/index.php/assembly-instructions).
 
 - Download a free copy of Inkscape [HERE](https://inkscape.org/).
 
