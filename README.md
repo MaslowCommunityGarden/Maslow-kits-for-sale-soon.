@@ -1,4 +1,4 @@
-# Maslow Complete kit + Latest v1.4 shield + Automated Z-axis.
+# Maslow Complete kit + Latest v1.5b shield + Automated Z-axis.
 
 In stock now, all you need to start projects today!
 
@@ -14,7 +14,7 @@ This is the newest version of the Maslow kit, the system that is currently being
 
 - **Complete Kit**
 - **Ring System**
-- **All New Plug and Play Shield TB6643 v1.5**
+- **All New Plug and Play Shield TB6643 v1.5b**
 - **Y / X / Z Original Etonm Motors**
 - **Z-axis control**
 - **All needed software included for free**
