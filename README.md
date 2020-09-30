@@ -14,11 +14,10 @@ This is the newest version of the Maslow kit, the system that is currently being
 
 - **Complete Kit**
 - **Ring System**
-- **All New Plug and Play Shield TLE5206 v1.4** (designed to supersede the old v1.2)
+- **All New Plug and Play Shield TB6643 v1.5**
 - **Y / X / Z Original Etonm Motors**
 - **Z-axis control**
-- **All needed software for free**
-- **Sprocket Alignment Tool**
+- **All needed software included for free**
 - **All hardware needed to assemble (chains, brackets, bolts, bearings and more..)**
 - **6 Months Full Warranty on All Parts Including Shipping**
 
@@ -39,20 +38,10 @@ Since then, three official versions of this kit were made by Barbour Smith (kit 
 
 The price of the latest Maslow kit with z-axis and ring system sold by Bar Smith after the kickstarter campaign was **U$S 410 + shipping**.
 
-We are proud to be offering the complete kit with improved electronics for **U$S 399 **, all without sacrificing quality, we are still using the same manufacturers as Bar did with the exception of the new shield and ring system which are made in USA. 
+We are proud to be offering the complete kit with improved electronics for **U$S 399**, all without sacrificing quality.
 
 
-
-
-![NOTE. The new shield v1.4 was a much needed upgrade to the kit, it was initially created by a community member @blurfl to solve the problems of the shield v1.2 (burn out), and it is now produced by us with even more safety improvements. 
-Support for this shield was also included in the original firmware since version 1.4 (more than a year ago). It is a Plug and Play shield made in USA that will not fail](https://raw.githubusercontent.com/MaslowCommunityGarden/Maslow-kits-for-sale-soon./master/note.gif)
-
-
-
-![New shield v1.4](https://raw.githubusercontent.com/MaslowCommunityGarden/Maslow-kits-for-sale-soon./master/TLE_v14.jpg)
-
-
-See more about the **shield v1.4 vs. old v1.2 [HERE](https://shop.eastbaysource.com/blogs/product-info/product-detail)**
+![New shield v1.5](https://raw.githubusercontent.com/MaslowCommunityGarden/Maslow-kits-for-sale-soon./master/TB_v1.5.jpg)
 
 
 - Complete parts list [HERE](https://www.eastbaysource.com/index.php/what-is-in-the-box).
@@ -67,11 +56,11 @@ See more about the **shield v1.4 vs. old v1.2 [HERE](https://shop.eastbaysource.
 
 - Download a free copy of Inkscape [HERE](https://inkscape.org/).
 
-- Free projects [HERE](http://maslowcommunitygarden.org/index.html).
+- Free projects [HERE](https://www.eastbaysource.com/index.php/downloads).
 
 
 
-- **Software and sample projects are downloadable for free thanks to Bar and the community.**
+- **Software and sample projects are also downloadable for free from [HERE](http://maslowcommunitygarden.org/index.htmlthanks) thanks to Bar and the community.**
 
 We wish to extend a huge "THANK YOU" to the Maslow community members, for being generous enough to share their amazing work and be a constant support for new users. 
 
