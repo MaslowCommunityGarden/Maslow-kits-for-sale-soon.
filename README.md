@@ -50,9 +50,9 @@ We are proud to be offering the complete kit with improved electronics for **U$S
 
 - Original Firmware [HERE](https://github.com/MaslowCNC/Firmware/releases/).
 
-- Step by step assembly guide [HERE](https://www.eastbaysource.com/index.php/assembly-instructions).
+- Step by step assembly guide [HERE](https://www.eastbaysource.com/index.php/assembly-guide/assembly-instructions).
 
-- How to cut your own sled [HERE](https://www.eastbaysource.com/index.php/assembly-instructions).
+- How to cut your own sled [HERE](https://www.eastbaysource.com/index.php/assembly-guide/assembly-instructions).
 
 - Download a free copy of Inkscape [HERE](https://inkscape.org/).
 
