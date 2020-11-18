@@ -6,7 +6,7 @@ In stock now, all you need to start projects today!
 
 Visit [EastBaySource](https://www.eastbaysource.com) to purchase.
 
-This is the newest version of the Maslow kit, the system that is currently being used by thousands of makers worldwide, a well proven design which also includes the **all new** TLE5206 v1.4 shield that won't let you down.
+This is the newest version of the Maslow kit, the system that is currently being used by thousands of makers worldwide, a well proven design which also includes the **all new** TB6643 v1.5b shield that won't let you down.
 
 
 
@@ -46,9 +46,9 @@ We are proud to be offering the complete kit with improved electronics for **U$S
 
 - Complete parts list [HERE](https://www.eastbaysource.com/index.php/what-is-in-the-box).
 
-- Download the original software [HERE](https://github.com/MaslowCNC/GroundControl/releases). 
+- Download the software [HERE](https://www.eastbaysource.com/index.php/downloads/file/3-groundcontrol-windows-portable-v1-26). 
 
-- Original Firmware [HERE](https://github.com/MaslowCNC/Firmware/releases/).
+- Firmware [HERE](https://www.eastbaysource.com/index.php/downloads/file/4-firmware-1-26b).
 
 - Step by step assembly guide [HERE](https://www.eastbaysource.com/index.php/assembly-guide/assembly-instructions).
 
