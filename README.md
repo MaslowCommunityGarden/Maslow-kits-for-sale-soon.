@@ -44,19 +44,19 @@ We are proud to be offering the complete kit with improved electronics for **U$S
 ![New shield v1.5](https://raw.githubusercontent.com/MaslowCommunityGarden/Maslow-kits-for-sale-soon./master/TB_v1.5.jpg)
 
 
-- Complete parts list [HERE](https://www.eastbaysource.com/index.php/what-is-in-the-box).
+- Complete parts list [HERE](https://www.eastbaysource.com/index.php/what-is-in-the-box)
 
-- Download the software [HERE](https://www.eastbaysource.com/index.php/downloads/file/3-groundcontrol-windows-portable-v1-26). 
+- Download the software [HERE](https://www.eastbaysource.com/index.php/downloads/file/3-groundcontrol-windows-portable-v1-26) 
 
-- Firmware [HERE](https://www.eastbaysource.com/index.php/downloads/file/4-firmware-1-26b).
+- Firmware [HERE](https://www.eastbaysource.com/index.php/downloads/file/4-firmware-1-26b)
 
-- Step by step assembly guide [HERE](https://www.eastbaysource.com/index.php/assembly-guide/assembly-instructions).
+- Step by step assembly guide [HERE](https://www.eastbaysource.com/index.php/assembly-guide/assembly-instructions)
 
-- How to cut your own sled [HERE](https://www.eastbaysource.com/index.php/assembly-guide/assembly-instructions).
+- How to cut your own sled [HERE](https://www.eastbaysource.com/index.php/assembly-guide/assembly-instructions)
 
-- Download a free copy of Inkscape [HERE](https://inkscape.org/).
+- Download a free copy of Inkscape [HERE](https://inkscape.org/)
 
-- Free projects [HERE](https://www.eastbaysource.com/index.php/downloads).
+- Free projects [HERE](https://www.eastbaysource.com/index.php/downloads)
 
 
 
