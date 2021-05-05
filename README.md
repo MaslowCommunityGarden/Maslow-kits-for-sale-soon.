@@ -1,24 +1,28 @@
-# Maslow Complete kit + Latest v1.5b shield + Automated Z-axis.
+# Maslow Complete kit + Powerful v1.5b shield + Automated Z-axis.
 
 In stock now, all you need to start projects today!
+Maslow by EastBaySourca is a more capable and affordable, large format 4 x 8 feet CNC kit.
 
 **Ships today from USA via priority mail** (3-5 days to deliver, or 6-10 days international).
 
 Visit [EastBaySource](https://www.eastbaysource.com) to purchase.
 
-This is the newest version of the Maslow kit, the system that is currently being used by thousands of makers worldwide, a well proven design which also includes the **all new** TB6643 v1.5b shield that won't let you down.
+This is the latest version of the Maslow cnc kit, the system that is currently being used by thousands of makers worldwide, a well proven machine capable of cutting all of the projects you see online.
 
 
 
 **What is included:**
 
 - **Complete Kit**
+- **New, Most powerfull plug n' play control board, Made in USA**
+- **Easy 5 steps calibration**
+- **Updated Chain Slack Management**
 - **Ring System**
-- **All New Plug and Play Shield TB6643 v1.5b**
-- **Y / X / Z Original Etonm Motors**
+- **Y / X / Z Powerfull Worm Geared Motors**
 - **Z-axis control**
-- **All needed software included for free**
-- **All hardware needed to assemble (chains, brackets, bolts, bearings and more..)**
+- **All software included for free**
+- **Export directly from Fusion360, Easel, Inkscape and more..
+- **Free ready to cut projects**
 - **6 Months Full Warranty on All Parts Including Shipping**
 
 
@@ -26,7 +30,10 @@ This is the newest version of the Maslow kit, the system that is currently being
 ![Complete Kit](https://raw.githubusercontent.com/MaslowCommunityGarden/Maslow-kits-for-sale-soon./master/fullkit_wb.jpg)
 
 
-**NOTE TO NEW USERS**, The Maslow cnc project started its life after a successful KickStarter campaign.
+**IMPORTANT NOTE TO NEW USERS**
+**All kits to this day cut at the same speed and accuracy as the original, regardless of its vendor.**
+
+The Maslow cnc project started its life after a successful KickStarter campaign.
 Since then, three official versions of this kit were made by Barbour Smith (kit creator) before he decided to outsource the sales.
 
 - v1 Original kit with two heavy L brackets (instead the ring system), and NO motorized/automated z-axis.
@@ -60,20 +67,19 @@ We are proud to be offering the complete kit with improved electronics for **U$S
 
 
 
-- **Software and sample projects are also downloadable for free from [HERE](http://maslowcommunitygarden.org/index.htmlthanks) thanks to Bar and the community.**
+- **Software and sample projects are also downloadable for free [HERE](http://maslowcommunitygarden.org/index.htmlthanks) thanks to Bar and the community.**
 
 We wish to extend a huge "THANK YOU" to the Maslow community members, for being generous enough to share their amazing work and be a constant support for new users. 
 
-**We are an authorized Maslow cnc supplier**. Maslow cnc is an open source project created by Bar Smith and funded/supported by the Maslow community, we are honored to be part of it and to be allowed to be a source for **quality and improved kits**.
+**We are an authorized Maslow cnc supplier**. Maslow cnc is an open source project created by Bar Smith and funded/supported by the Maslow community, we are honored to be part of it and to be allowed to be a source for **quality and honestly improved kits**.
 
 Providers at the moment to choose from:
 
     @EastBaySource
     @MetalMaslow
-    @MaslowSurplusParts
     @MakerMadecnc
 
-Do your research, compare and decide what's best for you.
+**Do your research!**, compare and decide what's best for you.
 
 
 EastBaySource
