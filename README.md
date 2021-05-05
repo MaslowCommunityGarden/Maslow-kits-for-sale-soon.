@@ -71,7 +71,7 @@ We are proud to be offering the complete kit with improved electronics for **U$S
 
 We wish to extend a huge "THANK YOU" to the Maslow community members, for being generous enough to share their amazing work and be a constant support for new users. 
 
-**We are an authorized Maslow cnc supplier**. Maslow cnc is an open source project created by Bar Smith and funded/supported by the Maslow community, we are honored to be part of it and to be allowed to be a source for **quality and honestly improved kits**.
+**We are an authorized Maslow cnc supplier**. Maslow cnc is an open source project created by Bar Smith and funded/supported by the Maslow community, we are honored to be part of it and to be allowed to be a source for **quality and honest/improved kits**.
 
 Providers at the moment to choose from:
 
