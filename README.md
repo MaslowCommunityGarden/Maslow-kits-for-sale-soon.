@@ -31,6 +31,7 @@ This is the latest version of the Maslow cnc kit, the system that is currently b
 
 
 **IMPORTANT NOTE TO NEW USERS**
+
 **All kits to this day cut at the same speed and accuracy as the original, regardless of its vendor.**
 
 The Maslow cnc project started its life after a successful KickStarter campaign.
