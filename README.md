@@ -68,7 +68,7 @@ We are proud to be offering the complete kit with improved electronics for **U$S
 
 
 
-- **Software and sample projects are also downloadable for free [HERE](http://maslowcommunitygarden.org/index.htmlthanks) thanks to Bar and the community.**
+- **Software and sample projects are also downloadable for free [HERE](http://maslowcommunitygarden.org) thanks to Bar and the community.**
 
 We wish to extend a huge "THANK YOU" to the Maslow community members, for being generous enough to share their amazing work and be a constant support for new users. 
 
