@@ -21,7 +21,7 @@ This is the latest version of the Maslow cnc kit, the system that is currently b
 - **Y / X / Z Powerfull Worm Geared Motors**
 - **Z-axis control**
 - **All software included for free**
-- **Export directly from Fusion360, Easel, Inkscape and more..
+- **Export directly from Fusion360, Easel, Inkscape and more..**
 - **Free ready to cut projects**
 - **6 Months Full Warranty on All Parts Including Shipping**
 
