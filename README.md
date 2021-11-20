@@ -16,11 +16,11 @@ This is the latest version of the Maslow cnc kit, the system that is currently b
 - **Complete Kit**
 - **New, Most powerfull plug n' play control board, Made in USA**
 - **Easy 5 steps calibration**
-- **Updated Chain Slack Management**
-- **Ring System**
-- **Y / X / Z Powerfull Worm Geared Motors**
+- **Upgraded Chain Slack Management**
+- **Laser cut Ring System**
+- **Y / X / Z Powerfull Worm Geared encoded Motors**
 - **Z-axis control**
-- **All software included for free**
+- **All software included for free - Windows - Mac - Linux - Pi**
 - **Export directly from Fusion360, Easel, Inkscape and more..**
 - **Free ready to cut projects**
 - **6 Months Full Warranty on All Parts Including Shipping**
