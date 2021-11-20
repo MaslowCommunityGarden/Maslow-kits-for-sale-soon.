@@ -19,7 +19,7 @@ This is the latest version of the Maslow cnc kit, the system that is currently b
 - **Upgraded Chain Slack Management**
 - **Laser cut Ring System**
 - **Y / X / Z Powerfull Worm Geared encoded Motors**
-- **Z-axis control**
+- **Automated Z-axis control**
 - **All software included for free - Windows - Mac - Linux - Pi**
 - **Export directly from Fusion360, Easel, Inkscape and more..**
 - **Free ready to cut projects**
@@ -41,7 +41,7 @@ Since then, three official versions of this kit were made by Barbour Smith (kit 
 - v2 Option for a motorized/automated Z-axis was added.
 - v3 Latest version with Ring system (instead L brackets), motorized/automated Z-axis.
 
-(There is also a linkage kit version created by community members that replaces the ring system and seems to work as good as the original, however it is not nearly as widely used as the well proven ring system created by Bar Smith.)
+(There is also a linkage kit version created by community members that replaces the ring system and seems to work as good as the original, however it is not nearly as widely used as the well proven ring system.)
 
 
 The price of the latest Maslow kit with z-axis and ring system sold by Bar Smith after the kickstarter campaign was **U$S 410 + shipping**.
