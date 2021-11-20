@@ -1,7 +1,7 @@
 # Maslow cnc complete kit
 
 In stock now, all you need to start projects today!
-Maslow by EastBaySourca is a more capable and affordable, large format 4 x 8 feet CNC kit.
+Maslow by EastBaySource is a more capable and affordable, large format 4 x 8 feet CNC kit.
 
 **Ships today from USA via priority mail** (3-5 days to deliver, or 6-10 days international).
 
