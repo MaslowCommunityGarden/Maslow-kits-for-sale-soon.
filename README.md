@@ -1,4 +1,4 @@
-# Maslow Complete kit + Powerful v1.5b shield + Automated Z-axis.
+# Vomplete Maslow cnc kit
 
 In stock now, all you need to start projects today!
 Maslow by EastBaySourca is a more capable and affordable, large format 4 x 8 feet CNC kit.
