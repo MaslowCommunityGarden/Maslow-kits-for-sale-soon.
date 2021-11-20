@@ -1,7 +1,7 @@
 {
 "ModerationLevel": "customManaged",
 "Facilitator": "2cents",
-"Price": "$399",
+"Price": "$429",
 "Category": "market",
 "FullKit": "True"
 }
