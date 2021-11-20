@@ -46,7 +46,7 @@ Since then, three official versions of this kit were made by Barbour Smith (kit 
 
 The price of the latest Maslow kit with z-axis and ring system sold by Bar Smith after the kickstarter campaign was **U$S 410 + shipping**.
 
-We are proud to be offering the complete kit with improved electronics for **U$S 399**, all without sacrificing quality.
+We are proud to be offering the complete kit with improved electronics for **U$S 429**, all without sacrificing quality.
 
 
 ![New shield v1.5](https://raw.githubusercontent.com/MaslowCommunityGarden/Maslow-kits-for-sale-soon./master/TB_v1.5.jpg)
