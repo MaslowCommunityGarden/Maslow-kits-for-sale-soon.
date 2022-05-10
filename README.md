@@ -31,8 +31,7 @@ This is the latest version of the Maslow cnc kit - the setup that is currently b
 Maslow cnc [Complete Kit](https://www.eastbaysource.com/index.php/shop)
 
 
-![New 2022 EBS Control Board](https://www.eastbaysource.com/index.php/user-guide/ebs-control-board)
-
+- [New 2022 EBS Control Board](https://www.eastbaysource.com/index.php/user-guide/ebs-control-board)
 
 - Complete parts list [HERE](https://www.eastbaysource.com/index.php/what-is-in-the-box)
 
