@@ -44,12 +44,7 @@ Maslow cnc [Complete Kit](https://www.eastbaysource.com/index.php/shop)
 - Free projects [HERE](https://www.eastbaysource.com/index.php/downloads)
 
 
-
-- **Software and sample projects are also downloadable for free [HERE](http://maslowcommunitygarden.org) thanks to Bar and the community.**
-
-We wish to extend a huge "THANK YOU" to the Maslow community members, for being generous enough to share their amazing work and be a constant support for new users. 
-
-**We are an authorized Maslow cnc supplier**. Maslow cnc is an open source project created by Bar Smith and funded/supported by the Maslow community, we are honored to be part of it and to be allowed to be a source for **quality and honest/improved kits**.
+**We are an authorized Maslow cnc MANUFACTURER**. Maslow cnc is an open source project created by Bar Smith, funded and supported by the Maslow community.
 
 Providers at the moment to choose from:
 
