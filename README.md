@@ -7,15 +7,16 @@ Maslow by EastBaySource is a more capable and affordable, large format 4 x 8 fee
 
 Visit [EastBaySource](https://www.eastbaysource.com) to purchase.
 
-This is the latest version of the Maslow cnc kit, the system that is currently being used by thousands of makers worldwide, a well proven machine capable of cutting all of the projects you see online.
+This is the latest version of the Maslow cnc kit - the setup that is currently being used by thousands of makers worldwide - a well proven machine capable of cutting all of the projects you see online.
 
 
 
 **What is included:**
 
 - **Complete Kit**
-- **New, Most powerfull plug n' play control board, Made in USA**
-- **Easy 5 steps calibration**
+- **New 2022 most powerfull AND accurate control board - Made in USA**
+- **40% faster than the original Maslow kit (faster X, Y & Z axis)**
+- **Updated 2022 control software - Easy calibration**
 - **Upgraded Chain Slack Management**
 - **Laser cut Ring System**
 - **Y / X / Z Powerfull Worm Geared encoded Motors**
@@ -27,42 +28,19 @@ This is the latest version of the Maslow cnc kit, the system that is currently b
 
 
 
-![Complete Kit](https://raw.githubusercontent.com/MaslowCommunityGarden/Maslow-kits-for-sale-soon./master/fullkit_wb.jpg)
+![Complete Kit](https://www.eastbaysource.com/index.php/shop)
 
 
-**IMPORTANT NOTE TO NEW USERS**
-
-**All kits to this day cut at the same speed and accuracy as the original, regardless of its vendor.**
-
-The Maslow cnc project started its life after a successful KickStarter campaign.
-Since then, three official versions of this kit were made by Barbour Smith (kit creator) before he decided to outsource the sales.
-
-- v1 Original kit with two heavy L brackets (instead the ring system), and NO motorized/automated z-axis.
-- v2 Option for a motorized/automated Z-axis was added.
-- v3 Latest version with Ring system (instead L brackets), motorized/automated Z-axis.
-
-(There is also a linkage kit version created by community members that replaces the ring system and seems to work as good as the original, however it is not nearly as widely used as the well proven ring system.)
-
-
-The price of the latest Maslow kit with z-axis and ring system sold by Bar Smith after the kickstarter campaign was **U$S 410 + shipping**.
-
-We are proud to be offering the complete kit with improved electronics for **U$S 429**, all without sacrificing quality.
-
-
-![New shield v1.5](https://raw.githubusercontent.com/MaslowCommunityGarden/Maslow-kits-for-sale-soon./master/TB_v1.5.jpg)
+![New RBS shield 2022](https://www.eastbaysource.com/index.php/user-guide/ebs-control-board)
 
 
 - Complete parts list [HERE](https://www.eastbaysource.com/index.php/what-is-in-the-box)
 
-- Download the software [HERE](https://www.eastbaysource.com/index.php/downloads/file/3-groundcontrol-windows-portable-v1-26) 
+- Download the software/firmware [HERE](https://www.eastbaysource.com/index.php/downloads/category/5-software-and-firmware) 
 
-- Firmware [HERE](https://www.eastbaysource.com/index.php/downloads/file/4-firmware-1-26b)
+- Step by step assembly guide [HERE](https://www.eastbaysource.com/index.php/user-guide/assembly)
 
-- Step by step assembly guide [HERE](https://www.eastbaysource.com/index.php/assembly-guide/assembly-instructions)
-
-- How to cut your own sled [HERE](https://www.eastbaysource.com/index.php/assembly-guide/assembly-instructions)
-
-- Download a free copy of Inkscape [HERE](https://inkscape.org/)
+- How to cut your own sled [HERE](https://www.eastbaysource.com/index.php/user-guide/assembly)
 
 - Free projects [HERE](https://www.eastbaysource.com/index.php/downloads)
 
