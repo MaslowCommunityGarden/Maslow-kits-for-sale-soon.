@@ -16,7 +16,7 @@ This is the latest version of the Maslow cnc kit - the setup that is currently b
 - **Complete Kit**
 - **New 2022 most powerfull AND accurate control board - Made in USA**
 - **40% faster than the original Maslow kit (faster X, Y & Z axis)**
-- **Updated 2022 control software - Easy calibration**
+- **Updated 2022 CNC Control Software - Easy calibration and New Features!**
 - **Upgraded Chain Slack Management**
 - **Laser cut Ring System**
 - **Y / X / Z Powerfull Worm Geared encoded Motors**
