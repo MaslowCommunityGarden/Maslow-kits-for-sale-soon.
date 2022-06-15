@@ -1,30 +1,31 @@
 # Maslow cnc complete kit
 
-In stock now, all you need to start projects today!
-Maslow by EastBaySource is a more capable and affordable, large format 4 x 8 feet CNC kit.
+Maslow by EastBaySource is an affordable large format (4x8 ft) DIY cnc machine.
 
-**Ships today from USA via priority mail** (3-5 days to deliver, or 6-10 days international).
+This is the latest and well proven version of the Maslow cnc kit - The setup that is currently being used by thousands of makers worldwide to make the amazing projects you see online.
 
 Visit [EastBaySource](https://www.eastbaysource.com) to purchase.
 
-This is the latest version of the Maslow cnc kit - the setup that is currently being used by thousands of makers worldwide - a well proven machine capable of cutting all of the projects you see online.
+**Ships today from USA via priority mail** (3-5 days to deliver, or 6-10 days international).
 
 
-
-**What is included:**
+**Features**
 
 - **Complete Kit**
-- **New 2022 most powerfull AND accurate control board - Made in USA**
+- **New EBS 2022 most powerful AND accurate control board - Made in USA**
 - **40% faster than the original Maslow kit (faster X, Y & Z axis)**
-- **Updated 2022 CNC Control Software - Easy calibration and New Features!**
+- **Latest 2022 software included - compatible with Windows, Mac OS and Linux**
+- **New EBS 2022 one click firmware upload tool**
+- **Easy and straightforward 5 steps calibration**
 - **Upgraded Chain Slack Management**
-- **Laser cut Ring System**
-- **Y / X / Z Powerfull Worm Geared encoded Motors**
-- **Automated Z-axis control**
-- **All software included for free - Windows - Mac - Linux - Pi**
+- **Automatic Router on/off, Laser on/off, Touch probe and Spindle Speed Control**
+- **Capable of cutting wood, soft metals and a variety of plastics (e.g. acrylic and HDPE)**
+- **Heavy duty motors for maximum reliability**
+- **Automated Z-axis**
 - **Export directly from Fusion360, Easel, Inkscape and more..**
 - **Free ready to cut projects**
-- **6 Months Full Warranty on All Parts Including Shipping**
+- **Free unlimited support**
+- **12 Months Full Warranty on All Parts Including Shipping**
 
 
 
@@ -45,14 +46,6 @@ Maslow cnc [Complete Kit](https://www.eastbaysource.com/index.php/shop)
 
 
 **We are authorized Maslow cnc MANUFACTURERS**. Maslow cnc is an open source project created by Bar Smith, funded and supported by the Maslow community.
-
-Kit providers at the moment:
-
-    @EastBaySource
-    @MetalMaslow
-    @MakerMadecnc
-
-**Do your research!**, compare and decide what's best for you.
 
 
 EastBaySource
