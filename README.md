@@ -13,7 +13,7 @@ Visit [EastBaySource](https://www.eastbaysource.com) to purchase.
 
 - **Complete Kit**
 - **New EBS 2022 most powerful AND accurate control board - Made in USA**
-- **40% faster than the original Maslow kit (faster X, Y & Z axis)**
+- **40% faster cutting speed than other Maslow kits (faster X, Y & Z axis movements)**
 - **Latest 2022 software included - compatible with Windows, Mac OS and Linux**
 - **New EBS 2022 one click firmware upload tool**
 - **Easy and straightforward 5 steps calibration**
