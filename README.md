@@ -6,7 +6,7 @@ This is the latest and well proven version of the Maslow cnc kit - The setup tha
 
 Visit [EastBaySource](https://www.eastbaysource.com) to purchase.
 
-**Ships today from USA via priority mail** (3-5 days to deliver, or 6-10 days international).
+**Ships today from USA via USPS Priority Mail** 3-5 days domestic delivery time or 6-10 days worldwide.
 
 
 **Features**
